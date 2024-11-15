@@ -61,8 +61,8 @@ function Home2() {
               <li className="social-icons">
                 <a
                   href="https://github.com/chandibhamarmahek"
-                  target="_blank"
                   rel="noreferrer"
+                  target="_blank"
                   className="icon-colour  home-social-icons"
                 >
                   <AiFillGithub />
