@@ -1,5 +1,5 @@
 import React from "react";
-import { Helmet } from "react-helmet"; // Import Helmet for SEO
+import { Helmet } from "react-helmet";
 import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Github from "./Github";
