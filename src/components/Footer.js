@@ -55,8 +55,8 @@ function Footer() {
               <a
                 href="https://www.instagram.com/mahekchandibhamar"
                 style={{ color: "white" }}
-                rel="noopener noreferrer"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 <AiFillInstagram />
               </a>
