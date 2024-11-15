@@ -45,8 +45,8 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/chandibhamarmahek/"
                 style={{ color: "white" }}
-                target="_blank"
                 rel="noopener noreferrer"
+                target="_blank"
               >
                 <FaLinkedinIn />
               </a>
